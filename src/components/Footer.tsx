@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
-    <footer className="mt-3 py-6 lg:px-14 px-8 flex items-center justify-between">
-      <div>
+    <footer className="mt-3 py-6 lg:px-14 px-8 flex items-center justify-between gap-4">
+      <div className="lg:text-lg text-base">
         &copy; Mentorium 2023. Developed by{" "}
         <a
           href="https://valehismayilov.com"
